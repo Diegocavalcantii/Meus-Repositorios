@@ -1,4 +1,4 @@
 # Meus Repositórios!
  Códigos de programação
 
-Foco em Python e Java!
+Foco em estudos Python e Java!
